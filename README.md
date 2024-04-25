@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
 <h3 align="center">A promising AI engineer from Korea</h3>
 
-- 🌱 I’m currently learning **CV, NLP and German**
+- 🌱 I’m currently learning **DS, ML, CV, NLP and German**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sy-grace/](https://github.com/sy-grace/)
 
