@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sy-grace/](https://github.com/sy-grace/)
 
-- 📝 I regularly write articles on [https://sygrace.tistory.com/](https://sygrace.tistory.com/)
-
 - 📫 How to reach me **sygrace126@gmail.com**
 
 - ⚡ Fun fact **Work hard, play hard**
